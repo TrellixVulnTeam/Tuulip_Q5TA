@@ -1,0 +1,17 @@
+{
+  "name": "tuulip",
+  "version": "1.0.0",
+  "description": "flower bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tuulip"
+  ],
+  "author": "caye/raziel",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
